@@ -1,3 +1,2 @@
-#!/bin/bang
-# My first script
-echo "Hello World!"
+#!/bin/bash
+echo "Hello,World"
