@@ -1,2 +1,2 @@
-#!/bin/band
+#!/bin/bang
 grep -i "root" /etc/passwd
